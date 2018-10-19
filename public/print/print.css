@@ -1,0 +1,20 @@
+.noPrint {
+    display: none;
+}
+
+/*@page { margin: 0; }*/
+		
+    @page 
+    {
+        size: auto;   
+        margin: 10mm;  
+    }
+
+  
+
+
+
+/*@media print {
+  @page { margin: 0; }
+  body { margin: 1.6cm; }
+}*/
